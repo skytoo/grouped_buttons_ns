@@ -1,11 +1,11 @@
 name: grouped_buttons_ns
 description: Flutter package used to group radio and checbox buttons.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/syedassadullahshah/grouped_buttons_NS
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: '>=3.3.1 <4.0.0'
+  # flutter: ">=1.17.0"
 
 dependencies:
   flutter:
